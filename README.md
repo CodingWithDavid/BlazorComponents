@@ -25,10 +25,10 @@ a.	With Visual Code you will need to install the C# extensions
 ## What's in the App
 
 I am using the basic Server side Blazor template.  I have examples of several different ways to implement a component.
-	1. Inline
-	2. Code Behind
-	3. Parent Child
-	4. UI component library
+	-- Inline
+	-- Code Behind
+	-- Parent Child
+	-- UI component library
 
 ## Problems or Suggestions
 
@@ -42,5 +42,5 @@ I am using the basic Server side Blazor template.  I have examples of several di
 - [VS Code](https://code.visualstudio.com)
 - [Visual Studio]( https://visualstudio.microsoft.com/)
 - [VS Code Extension Marketplace](https://marketplace.visualstudio.com/vscode)
-- [MS DOCs] (https://docs.microsoft.com/en-us/aspnet/core/blazor/components?view=aspnetcore-3.0#component-classes)
-- [WEBASSEMBLYMAN] (https://www.webassemblyman.com/blazor/blazorcomponents.html)
+- [MS Docs](https://docs.microsoft.com/en-us/aspnet/core/blazor/components?view=aspnetcore-3.0#component-classes)
+- [WEBASSEMBLYMAN](https://www.webassemblyman.com/blazor/blazorcomponents.html)
